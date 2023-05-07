@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+.sidebar {
+    position: absolute;
+    width: 186px;
+    height: 832px;
+    left: 0px;
+    top: 0px;
+    background-image: url("score.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+
+.top-nav {
+    position: absolute;
+    width: 1092px;
+    height: 141px;
+    left: 188px;
+    top: 0px;
+    background-image: url("codeman.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+.bottom-nav {
+    position: absolute;
+    width: 1092px;
+    height: 43px;
+    left: 186px;
+    top: 141px;
+}
+
+
+
+.center {
+    position: absolute;
+    width: 1093px;
+    height: 648px;
+    left: 185px;
+    top: 184px;
+    background-image: url();
+}
